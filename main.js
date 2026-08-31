@@ -1,7 +1,7 @@
 const CONFIG = {
   BUSINESS_ID: 'hairstylebarbershop',
-  GOOGLE_SCRIPT_URL: 'PASTE_LOYALTY_SCRIPT_URL_HERE',
-  BOOKING_SCRIPT_URL: 'PASTE_BOOKING_SCRIPT_URL_HERE'
+  GOOGLE_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxkqP_EestIgjFV15jSw2k80L9wC89oL_hg3mMplpab6HQX9yUKzaLedRIGz6XQrp9X/exec',
+  BOOKING_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxkqP_EestIgjFV15jSw2k80L9wC89oL_hg3mMplpab6HQX9yUKzaLedRIGz6XQrp9X/exec'
 };
 
 const services = {
